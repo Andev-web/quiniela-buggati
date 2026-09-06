@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.exclude": { "**/.vinext": true, "**/.wrangler": true },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/web": true,
+    "**/package-lock.json": true
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "openingBalance": 0,
+  "nextPlayer": 0,
+  "rounds": [
+    {
+      "id": "Jornada 1",
+      "dateStart": "2026-08-15",
+      "date": "2026-08-16",
+      "player": "Jaime Pastor",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Alavés",
+          "away": "Getafe",
+          "picks": "1X",
+          "result": "1"
+        },
+        {
+          "home": "Sevilla",
+          "away": "Rayo Vallecano",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Racing Santander",
+          "away": "Villarreal",
+          "picks": "12",
+          "result": "X"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Levante",
+          "picks": "1X",
+          "result": "1"
+        },
+        {
+          "home": "Celta",
+          "away": "Osasuna",
+          "picks": "1X",
+          "result": "X"
+        },
+        {
+          "home": "Andorra",
+          "away": "Ceuta",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Cádiz",
+          "away": "Celta Fortuna",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "R. Oviedo",
+          "away": "Granada",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Mallorca",
+          "away": "R. Valladolid",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Eibar",
+          "away": "Tenerife",
+          "picks": "1X",
+          "result": "2"
+        },
+        {
+          "home": "Burgos",
+          "away": "Córdoba",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Girona",
+          "away": "Leganés",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Las Palmas",
+          "away": "Albacete",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Sporting",
+          "away": "Sabadell",
+          "picks": "1",
+          "result": "X"
+        }
+      ],
+      "pleno": {
+        "home": "Deportivo",
+        "away": "Elche",
+        "prediction": "2-0",
+        "result": "1-1"
+      }
+    },
+    {
+      "id": "Jornada 2",
+      "dateStart": "2026-08-22",
+      "date": "2026-08-23",
+      "player": "Antonio Garcia",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Athletic Club",
+          "away": "Sevilla",
+          "picks": "1",
+          "result": "2"
+        },
+        {
+          "home": "Valencia",
+          "away": "Celta",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Espanyol",
+          "away": "Real Madrid",
+          "picks": "X2",
+          "result": "2"
+        },
+        {
+          "home": "Getafe",
+          "away": "Racing Santander",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Elche",
+          "away": "Barcelona",
+          "picks": "X2",
+          "result": "2"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Levante",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Málaga",
+          "away": "Deportivo",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "R. Oviedo",
+          "away": "Leganés",
+          "picks": "1",
+          "result": "2"
+        },
+        {
+          "home": "Ceuta",
+          "away": "Las Palmas",
+          "picks": "1",
+          "result": "2"
+        },
+        {
+          "home": "Eldense",
+          "away": "Cádiz",
+          "picks": "X2",
+          "result": "X"
+        },
+        {
+          "home": "Eibar",
+          "away": "R. Valladolid",
+          "picks": "X2",
+          "result": "1"
+        },
+        {
+          "home": "Castellón",
+          "away": "Sabadell",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Sporting",
+          "away": "Burgos",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Tenerife",
+          "away": "Almería",
+          "picks": "1X",
+          "result": "1"
+        }
+      ],
+      "pleno": {
+        "home": "At. Madrid",
+        "away": "Villarreal",
+        "prediction": "1-1",
+        "result": "2-2"
+      }
+    },
+    {
+      "id": "Jornada 3",
+      "date": "2026-08-30",
+      "player": "Andres Segovia",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Levante",
+          "away": "Betis",
+          "picks": "X2",
+          "result": "1"
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Espanyol",
+          "picks": "1X",
+          "result": "1"
+        },
+        {
+          "home": "Sevilla",
+          "away": "At. Madrid",
+          "picks": "1X",
+          "result": "2"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Málaga",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Deportivo",
+          "away": "Valencia",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Celta",
+          "away": "Athletic Club",
+          "picks": "1X",
+          "result": "2"
+        },
+        {
+          "home": "Osasuna",
+          "away": "Getafe",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Albacete",
+          "away": "R. Oviedo",
+          "picks": "X",
+          "result": "2"
+        },
+        {
+          "home": "Cádiz",
+          "away": "R. Valladolid",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Córdoba",
+          "away": "Granada",
+          "picks": "X2",
+          "result": "2"
+        },
+        {
+          "home": "Athletic Club (F)",
+          "away": "Badalona W. (F)",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Eibar (F)",
+          "away": "Espanyol (F)",
+          "picks": "2",
+          "result": "1"
+        },
+        {
+          "home": "Alavés (F)",
+          "away": "Valencia (F)",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Real Madrid (F)",
+          "away": "At. Madrid (F)",
+          "picks": "1",
+          "result": "1"
+        }
+      ],
+      "columns": [
+        "X111111X1X1211",
+        "X111111X121211",
+        "X1111X1X1X1211",
+        "X1111X1X121211",
+        "X1X1111X1X1211",
+        "X1X1111X121211",
+        "X1X11X1X1X1211",
+        "X1X11X1X121211",
+        "XX11111X1X1211",
+        "XX11111X121211",
+        "XX111X1X1X1211",
+        "XX111X1X121211",
+        "XXX1111X1X1211",
+        "XXX1111X121211",
+        "XXX11X1X1X1211",
+        "XXX11X1X121211",
+        "2111111X1X1211",
+        "2111111X121211",
+        "21111X1X1X1211",
+        "21111X1X121211",
+        "21X1111X1X1211",
+        "21X1111X121211",
+        "21X11X1X1X1211",
+        "21X11X1X121211",
+        "2X11111X1X1211",
+        "2X11111X121211",
+        "2X111X1X1X1211",
+        "2X111X1X121211",
+        "2XX1111X1X1211",
+        "2XX1111X121211",
+        "2XX11X1X1X1211",
+        "2XX11X1X121211"
+      ],
+      "pleno": {
+        "home": "Barcelona",
+        "away": "Rayo Vallecano",
+        "prediction": "2-0",
+        "result": "M-2"
+      }
+    },
+    {
+      "id": "Jornada 4",
+      "dateStart": "2026-09-05",
+      "date": "2026-09-06",
+      "player": "Jesus Negrillo",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Athletic Club",
+          "away": "At. Madrid",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Racing Santander",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Villarreal",
+          "away": "Deportivo",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Valencia",
+          "away": "Barcelona",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Alavés",
+          "away": "Osasuna",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "Málaga",
+          "away": "Levante",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Espanyol",
+          "away": "Sevilla",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "Real Sociedad B",
+          "away": "Tenerife",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Sporting",
+          "away": "Girona",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Almería",
+          "away": "Cádiz",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Sevilla (F)",
+          "away": "Barcelona (F)",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Logroño (F)",
+          "away": "Athletic Club (F)",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "At. Madrid (F)",
+          "away": "Alavés (F)",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Real Madrid (F)",
+          "away": "Eibar (F)",
+          "picks": "1",
+          "result": null
+        }
+      ],
+      "pleno": {
+        "home": "Getafe",
+        "away": "Celta",
+        "prediction": "2-1",
+        "result": null
+      }
+    }
+  ],
+  "withdrawals": []
+}
