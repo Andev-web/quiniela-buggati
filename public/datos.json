@@ -9,6 +9,14 @@
       "player": "Jaime Pastor",
       "cost": 24,
       "prize": null,
+      "scrutiny": [
+        { "hits": 15, "winners": 0, "amount": 0 },
+        { "hits": 14, "winners": 1, "amount": 273214.44 },
+        { "hits": 13, "winners": 15, "amount": 8537.95 },
+        { "hits": 12, "winners": 287, "amount": 446.23 },
+        { "hits": 11, "winners": 2338, "amount": 54.78 },
+        { "hits": 10, "winners": 13646, "amount": 11.26 }
+      ],
       "matches": [
         {
           "home": "Alavés",
@@ -109,6 +117,14 @@
       "player": "Antonio Garcia",
       "cost": 24,
       "prize": null,
+      "scrutiny": [
+        { "hits": 15, "winners": 0, "amount": 0 },
+        { "hits": 14, "winners": 1, "amount": 391563 },
+        { "hits": 13, "winners": 28, "amount": 6555.18 },
+        { "hits": 12, "winners": 448, "amount": 409.70 },
+        { "hits": 11, "winners": 4222, "amount": 43.47 },
+        { "hits": 10, "winners": 25547, "amount": 8.62 }
+      ],
       "matches": [
         {
           "home": "Athletic Club",
@@ -208,6 +224,14 @@
       "player": "Andres Segovia",
       "cost": 24,
       "prize": null,
+      "scrutiny": [
+        { "hits": 15, "winners": 0, "amount": 0 },
+        { "hits": 14, "winners": 10, "amount": 41373.66 },
+        { "hits": 13, "winners": 339, "amount": 572.09 },
+        { "hits": 12, "winners": 3600, "amount": 53.87 },
+        { "hits": 11, "winners": 23645, "amount": 8.20 },
+        { "hits": 10, "winners": 100155, "amount": 2.32 }
+      ],
       "matches": [
         {
           "home": "Levante",
@@ -342,97 +366,105 @@
       "player": "Jesus Negrillo",
       "cost": 24,
       "prize": null,
+      "scrutiny": [
+        { "hits": 15, "winners": 1, "amount": 1126075.47 },
+        { "hits": 14, "winners": 2, "amount": 242091 },
+        { "hits": 13, "winners": 57, "amount": 3981.76 },
+        { "hits": 12, "winners": 1310, "amount": 173.25 },
+        { "hits": 11, "winners": 13396, "amount": 16.94 },
+        { "hits": 10, "winners": 80069, "amount": 3.40 }
+      ],
       "matches": [
         {
           "home": "Athletic Club",
           "away": "At. Madrid",
           "picks": "12",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Rayo Vallecano",
           "away": "Racing Santander",
           "picks": "1X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Villarreal",
           "away": "Deportivo",
           "picks": "1X",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Valencia",
           "away": "Barcelona",
           "picks": "2",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Alavés",
           "away": "Osasuna",
           "picks": "12",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Málaga",
           "away": "Levante",
           "picks": "1",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Espanyol",
           "away": "Sevilla",
           "picks": "12",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Real Sociedad B",
           "away": "Tenerife",
           "picks": "1",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Sporting",
           "away": "Girona",
           "picks": "2",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Almería",
           "away": "Cádiz",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Sevilla (F)",
           "away": "Barcelona (F)",
           "picks": "2",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Logroño (F)",
           "away": "Athletic Club (F)",
           "picks": "2",
-          "result": null
+          "result": "2"
         },
         {
           "home": "At. Madrid (F)",
           "away": "Alavés (F)",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Real Madrid (F)",
           "away": "Eibar (F)",
           "picks": "1",
-          "result": null
+          "result": "X"
         }
       ],
       "pleno": {
         "home": "Getafe",
         "away": "Celta",
         "prediction": "2-1",
-        "result": null
+        "result": "1-1"
       }
     }
   ],

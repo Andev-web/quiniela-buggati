@@ -18,6 +18,11 @@ export type Round = {
   player: string;
   cost: number;
   prize: number | null;
+  scrutiny?: {
+    winners: number;
+    amount: number;
+    hits: 15 | 14 | 13 | 12 | 11 | 10;
+  }[];
   matches: Match[];
   columns?: string[];
   pleno?: {
