@@ -474,97 +474,105 @@
       "player": "Miguel Garcia",
       "cost": 24,
       "prize": null,
+      "scrutiny": [
+        { "hits": 15, "winners": 0, "amount": 0 },
+        { "hits": 14, "winners": 6, "amount": 64913.08 },
+        { "hits": 13, "winners": 137, "amount": 1332.61 },
+        { "hits": 12, "winners": 1753, "amount": 104.15 },
+        { "hits": 11, "winners": 13433, "amount": 13.59 },
+        { "hits": 10, "winners": 67270, "amount": 3.26 }
+      ],
       "matches": [
         {
           "home": "Athletic Club",
           "away": "Elche",
           "picks": "1",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Levante",
           "away": "Barcelona",
           "picks": "2",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Osasuna",
           "away": "Espanyol",
           "picks": "1X",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Racing Santander",
           "away": "Alavés",
           "picks": "1X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Real Madrid",
           "away": "Rayo Vallecano",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Sevilla",
           "away": "Valencia",
           "picks": "1X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Villarreal",
           "away": "Betis",
           "picks": "1",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Cádiz",
           "away": "Las Palmas",
           "picks": "X",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Tenerife",
           "away": "Leganés",
           "picks": "1X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "R. Valladolid",
           "away": "R. Oviedo",
           "picks": "1",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Alavés (F)",
           "away": "Granada (F)",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Logroño (F)",
           "away": "Valencia (F)",
           "picks": "12",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Eibar (F)",
           "away": "Badalona W. (F)",
           "picks": "1",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Madrid CFF (F)",
           "away": "Sevilla (F)",
           "picks": "1",
-          "result": null
+          "result": "1"
         }
       ],
       "pleno": {
         "home": "Real Sociedad",
         "away": "At. Madrid",
         "prediction": "2-0",
-        "result": null
+        "result": "0-M"
       }
     }
   ],
