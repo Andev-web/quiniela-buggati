@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 1,
+  "nextPlayer": 2,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -573,6 +573,106 @@
         "away": "At. Madrid",
         "prediction": "2-0",
         "result": "0-M"
+      }
+    },
+    {
+      "id": "Jornada 8",
+      "dateStart": "2026-09-19",
+      "date": "2026-09-20",
+      "player": "Antonio Garcia",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Osasuna",
+          "away": "Rayo Vallecano",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Athletic Club",
+          "away": "Alavés",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Sevilla",
+          "away": "Barcelona",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Getafe",
+          "away": "Málaga",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "Deportivo",
+          "away": "Betis",
+          "picks": "X2",
+          "result": null
+        },
+        {
+          "home": "Villarreal",
+          "away": "Levante",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Valencia",
+          "away": "Real Sociedad",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "Andorra",
+          "away": "Sporting",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Castellón",
+          "away": "Tenerife",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Leganés",
+          "away": "Granada",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "At. Madrid (F)",
+          "away": "Logroño (F)",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Eibar (F)",
+          "away": "Athletic Club (F)",
+          "picks": "X2",
+          "result": null
+        },
+        {
+          "home": "Real Madrid (F)",
+          "away": "Valencia (F)",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Tenerife (F)",
+          "away": "Sevilla (F)",
+          "picks": "X2",
+          "result": null
+        }
+      ],
+      "pleno": {
+        "home": "At. Madrid",
+        "away": "Real Madrid",
+        "prediction": "1-1",
+        "result": null
       }
     }
   ],
