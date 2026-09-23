@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 2,
+  "nextPlayer": 3,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -681,6 +681,106 @@
         "away": "Real Madrid",
         "prediction": "1-1",
         "result": "2-1"
+      }
+    },
+    {
+      "id": "Jornada 9",
+      "dateStart": "2026-09-26",
+      "date": "2026-09-27",
+      "player": "Jaime Pastor",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Ceuta",
+          "away": "Real Sociedad B",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "Granada",
+          "away": "Andorra",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Celta Fortuna",
+          "away": "Sabadell",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Tenerife",
+          "away": "Cádiz",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "R. Valladolid",
+          "away": "Córdoba",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Mallorca",
+          "away": "Almería",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "Burgos",
+          "away": "Eldense",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Eibar",
+          "away": "Las Palmas",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "R. Oviedo",
+          "away": "Sporting",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Leganés",
+          "away": "Castellón",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "Athletic Club (F)",
+          "away": "Real Madrid (F)",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Valencia (F)",
+          "away": "Tenerife (F)",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Sevilla (F)",
+          "away": "Eibar (F)",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Deportivo (F)",
+          "away": "Espanyol (F)",
+          "picks": "X",
+          "result": null
+        }
+      ],
+      "pleno": {
+        "home": "Inglaterra",
+        "away": "España",
+        "prediction": "1-2",
+        "result": null
       }
     }
   ],
