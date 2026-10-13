@@ -363,6 +363,32 @@ export default function Home() {
                           </span>
                         </div>
                       )}
+                      {r.scrutiny && (
+                        <section className="scrutiny" aria-label={`Escrutinio de ${r.id}`}>
+                          <div className="scrutiny-head">
+                            <div>
+                              <span className="eyebrow">ESCRUTINIO OFICIAL</span>
+                              <h3>Lo que se podía ganar</h3>
+                            </div>
+                            <span className={`scrutiny-verdict ${s.best !== null && s.best >= 10 ? 'won' : ''}`}>
+                              {s.best !== null
+                                ? s.best >= 10
+                                  ? `Mejor columna: ${s.best} · ${money(r.scrutiny.find((p) => p.hits === s.best)?.amount ?? 0)}`
+                                  : `Mejor columna: ${s.best}/14 · Sin premio`
+                                : `${s.covered} signos cubiertos · Mejor columna no registrada`}
+                            </span>
+                          </div>
+                          <div className="scrutiny-grid">
+                            {r.scrutiny.map((category) => (
+                              <div className={`scrutiny-category ${s.best === category.hits ? 'achieved' : ''}`} key={category.hits}>
+                                <span>{category.hits === 15 ? 'PLENO AL 15' : `${category.hits} ACIERTOS`}</span>
+                                <strong>{category.amount ? money(category.amount) : 'Bote'}</strong>
+                                <small>{category.winners.toLocaleString('es-ES')} acertante{category.winners === 1 ? '' : 's'}</small>
+                              </div>
+                            ))}
+                          </div>
+                        </section>
+                      )}
                     </details>
                   );
                 })

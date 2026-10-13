@@ -40,6 +40,14 @@ for (const r of data.rounds) {
   assert(players.includes(r.player), 'Jugador desconocido');
   assert(r.cost === 24, 'El importe acordado es 24 €');
   assert(r.prize === null || cash(r.prize), 'Premio inválido');
+  if (r.scrutiny !== undefined) {
+    assert(Array.isArray(r.scrutiny) && r.scrutiny.length === 6, 'Escrutinio incompleto');
+    assert.deepEqual(r.scrutiny.map((p) => p.hits), [15, 14, 13, 12, 11, 10], 'Categorías de escrutinio inválidas');
+    for (const p of r.scrutiny) {
+      assert(Number.isInteger(p.winners) && p.winners >= 0, 'Acertantes de escrutinio inválidos');
+      assert(cash(p.amount), 'Importe de escrutinio inválido');
+    }
+  }
   assert(
     Array.isArray(r.matches) && r.matches.length === 14,
     'Se requieren 14 partidos',
