@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 4,
+  "nextPlayer": 0,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -921,6 +921,106 @@
         "away": "República Checa",
         "prediction": "M-0",
         "result": "M-1"
+      }
+    },
+    {
+      "id": "Jornada 12",
+      "dateStart": "2026-10-10",
+      "date": "2026-10-11",
+      "player": "Andrés",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Rayo Vallecano",
+          "away": "Athletic Club",
+          "picks": "X2",
+          "result": null
+        },
+        {
+          "home": "Alavés",
+          "away": "At. Madrid",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Barcelona",
+          "away": "Getafe",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Elche",
+          "away": "Celta",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Deportivo",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Betis",
+          "away": "Osasuna",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Racing Santander",
+          "away": "Valencia",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Levante",
+          "away": "Sevilla",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Eldense",
+          "away": "Córdoba",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "Andorra",
+          "away": "Castellón",
+          "picks": "2",
+          "result": null
+        },
+        {
+          "home": "Almería",
+          "away": "Leganés",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Mallorca",
+          "away": "Las Palmas",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Burgos",
+          "away": "Granada",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "R. Oviedo",
+          "away": "Eibar",
+          "picks": "1X",
+          "result": null
+        }
+      ],
+      "pleno": {
+        "home": "Real Madrid",
+        "away": "Villarreal",
+        "prediction": "M-0",
+        "result": null
       }
     }
   ],
