@@ -10,12 +10,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 0, "amount": 0 },
-        { "hits": 14, "winners": 1, "amount": 273214.44 },
-        { "hits": 13, "winners": 15, "amount": 8537.95 },
-        { "hits": 12, "winners": 287, "amount": 446.23 },
-        { "hits": 11, "winners": 2338, "amount": 54.78 },
-        { "hits": 10, "winners": 13646, "amount": 11.26 }
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 1,
+          "amount": 273214.44
+        },
+        {
+          "hits": 13,
+          "winners": 15,
+          "amount": 8537.95
+        },
+        {
+          "hits": 12,
+          "winners": 287,
+          "amount": 446.23
+        },
+        {
+          "hits": 11,
+          "winners": 2338,
+          "amount": 54.78
+        },
+        {
+          "hits": 10,
+          "winners": 13646,
+          "amount": 11.26
+        }
       ],
       "matches": [
         {
@@ -118,12 +142,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 0, "amount": 0 },
-        { "hits": 14, "winners": 1, "amount": 391563 },
-        { "hits": 13, "winners": 28, "amount": 6555.18 },
-        { "hits": 12, "winners": 448, "amount": 409.70 },
-        { "hits": 11, "winners": 4222, "amount": 43.47 },
-        { "hits": 10, "winners": 25547, "amount": 8.62 }
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 1,
+          "amount": 391563
+        },
+        {
+          "hits": 13,
+          "winners": 28,
+          "amount": 6555.18
+        },
+        {
+          "hits": 12,
+          "winners": 448,
+          "amount": 409.7
+        },
+        {
+          "hits": 11,
+          "winners": 4222,
+          "amount": 43.47
+        },
+        {
+          "hits": 10,
+          "winners": 25547,
+          "amount": 8.62
+        }
       ],
       "matches": [
         {
@@ -225,12 +273,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 0, "amount": 0 },
-        { "hits": 14, "winners": 10, "amount": 41373.66 },
-        { "hits": 13, "winners": 339, "amount": 572.09 },
-        { "hits": 12, "winners": 3600, "amount": 53.87 },
-        { "hits": 11, "winners": 23645, "amount": 8.20 },
-        { "hits": 10, "winners": 100155, "amount": 2.32 }
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 10,
+          "amount": 41373.66
+        },
+        {
+          "hits": 13,
+          "winners": 339,
+          "amount": 572.09
+        },
+        {
+          "hits": 12,
+          "winners": 3600,
+          "amount": 53.87
+        },
+        {
+          "hits": 11,
+          "winners": 23645,
+          "amount": 8.2
+        },
+        {
+          "hits": 10,
+          "winners": 100155,
+          "amount": 2.32
+        }
       ],
       "matches": [
         {
@@ -367,12 +439,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 1, "amount": 1126075.47 },
-        { "hits": 14, "winners": 2, "amount": 242091 },
-        { "hits": 13, "winners": 57, "amount": 3981.76 },
-        { "hits": 12, "winners": 1310, "amount": 173.25 },
-        { "hits": 11, "winners": 13396, "amount": 16.94 },
-        { "hits": 10, "winners": 80069, "amount": 3.40 }
+        {
+          "hits": 15,
+          "winners": 1,
+          "amount": 1126075.47
+        },
+        {
+          "hits": 14,
+          "winners": 2,
+          "amount": 242091
+        },
+        {
+          "hits": 13,
+          "winners": 57,
+          "amount": 3981.76
+        },
+        {
+          "hits": 12,
+          "winners": 1310,
+          "amount": 173.25
+        },
+        {
+          "hits": 11,
+          "winners": 13396,
+          "amount": 16.94
+        },
+        {
+          "hits": 10,
+          "winners": 80069,
+          "amount": 3.4
+        }
       ],
       "matches": [
         {
@@ -475,12 +571,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 0, "amount": 0 },
-        { "hits": 14, "winners": 6, "amount": 64913.08 },
-        { "hits": 13, "winners": 137, "amount": 1332.61 },
-        { "hits": 12, "winners": 1753, "amount": 104.15 },
-        { "hits": 11, "winners": 13433, "amount": 13.59 },
-        { "hits": 10, "winners": 67270, "amount": 3.26 }
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 6,
+          "amount": 64913.08
+        },
+        {
+          "hits": 13,
+          "winners": 137,
+          "amount": 1332.61
+        },
+        {
+          "hits": 12,
+          "winners": 1753,
+          "amount": 104.15
+        },
+        {
+          "hits": 11,
+          "winners": 13433,
+          "amount": 13.59
+        },
+        {
+          "hits": 10,
+          "winners": 67270,
+          "amount": 3.26
+        }
       ],
       "matches": [
         {
@@ -583,12 +703,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 1, "amount": 3442752.89 },
-        { "hits": 14, "winners": 22, "amount": 27505.25 },
-        { "hits": 13, "winners": 723, "amount": 392.32 },
-        { "hits": 12, "winners": 8758, "amount": 32.39 },
-        { "hits": 11, "winners": 57693, "amount": 4.92 },
-        { "hits": 10, "winners": 232657, "amount": 0 }
+        {
+          "hits": 15,
+          "winners": 1,
+          "amount": 3442752.89
+        },
+        {
+          "hits": 14,
+          "winners": 22,
+          "amount": 27505.25
+        },
+        {
+          "hits": 13,
+          "winners": 723,
+          "amount": 392.32
+        },
+        {
+          "hits": 12,
+          "winners": 8758,
+          "amount": 32.39
+        },
+        {
+          "hits": 11,
+          "winners": 57693,
+          "amount": 4.92
+        },
+        {
+          "hits": 10,
+          "winners": 232657,
+          "amount": 0
+        }
       ],
       "matches": [
         {
@@ -691,12 +835,36 @@
       "cost": 24,
       "prize": null,
       "scrutiny": [
-        { "hits": 15, "winners": 0, "amount": 0 },
-        { "hits": 14, "winners": 0, "amount": 0 },
-        { "hits": 13, "winners": 2, "amount": 54494.05 },
-        { "hits": 12, "winners": 53, "amount": 2056.38 },
-        { "hits": 11, "winners": 648, "amount": 168.19 },
-        { "hits": 10, "winners": 4639, "amount": 28.19 }
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 13,
+          "winners": 2,
+          "amount": 54494.05
+        },
+        {
+          "hits": 12,
+          "winners": 53,
+          "amount": 2056.38
+        },
+        {
+          "hits": 11,
+          "winners": 648,
+          "amount": 168.19
+        },
+        {
+          "hits": 10,
+          "winners": 4639,
+          "amount": 28.19
+        }
       ],
       "matches": [
         {
@@ -929,99 +1097,131 @@
       "date": "2026-10-11",
       "player": "Andrés",
       "cost": 24,
-      "prize": null,
+      "prize": 3.91,
       "matches": [
         {
           "home": "Rayo Vallecano",
           "away": "Athletic Club",
           "picks": "X2",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Alavés",
           "away": "At. Madrid",
           "picks": "2",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Barcelona",
           "away": "Getafe",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Elche",
           "away": "Celta",
           "picks": "1X",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Real Sociedad",
           "away": "Deportivo",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Betis",
           "away": "Osasuna",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Racing Santander",
           "away": "Valencia",
           "picks": "1X",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Levante",
           "away": "Sevilla",
           "picks": "2",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Eldense",
           "away": "Córdoba",
           "picks": "X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Andorra",
           "away": "Castellón",
           "picks": "2",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Almería",
           "away": "Leganés",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Mallorca",
           "away": "Las Palmas",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Burgos",
           "away": "Granada",
           "picks": "12",
-          "result": null
+          "result": "2"
         },
         {
           "home": "R. Oviedo",
           "away": "Eibar",
           "picks": "1X",
-          "result": null
+          "result": "1"
         }
       ],
       "pleno": {
         "home": "Real Madrid",
         "away": "Villarreal",
         "prediction": "M-0",
-        "result": null
-      }
+        "result": "1-0"
+      },
+      "scrutiny": [
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 32,
+          "amount": 17500.75
+        },
+        {
+          "hits": 13,
+          "winners": 1033,
+          "amount": 254.13
+        },
+        {
+          "hits": 12,
+          "winners": 11292,
+          "amount": 23.25
+        },
+        {
+          "hits": 11,
+          "winners": 67200,
+          "amount": 3.91
+        },
+        {
+          "hits": 10,
+          "winners": 240653,
+          "amount": 0
+        }
+      ]
     }
   ],
   "withdrawals": []
