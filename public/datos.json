@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 3,
+  "nextPlayer": 4,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -789,6 +789,138 @@
         "away": "España",
         "prediction": "1-2",
         "result": "2-M"
+      }
+    },
+    {
+      "id": "Jornada 11",
+      "dateStart": "2026-10-03",
+      "date": "2026-10-04",
+      "player": "Jesús",
+      "cost": 24,
+      "prize": null,
+      "scrutiny": [
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 1,
+          "amount": 234138.12
+        },
+        {
+          "hits": 13,
+          "winners": 62,
+          "amount": 1770.2
+        },
+        {
+          "hits": 12,
+          "winners": 989,
+          "amount": 110.97
+        },
+        {
+          "hits": 11,
+          "winners": 7944,
+          "amount": 13.82
+        },
+        {
+          "hits": 10,
+          "winners": 37694,
+          "amount": 3.49
+        }
+      ],
+      "matches": [
+        {
+          "home": "Albacete",
+          "away": "Eibar",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Almería",
+          "away": "Burgos",
+          "picks": "1X",
+          "result": "1"
+        },
+        {
+          "home": "Cádiz",
+          "away": "Leganés",
+          "picks": "2",
+          "result": "1"
+        },
+        {
+          "home": "Sabadell",
+          "away": "Andorra",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Real Sociedad B",
+          "away": "Granada",
+          "picks": "1X",
+          "result": "2"
+        },
+        {
+          "home": "Sporting",
+          "away": "Celta Fortuna",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Castellón",
+          "away": "Ceuta",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Las Palmas",
+          "away": "R. Valladolid",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Girona",
+          "away": "Mallorca",
+          "picks": "12",
+          "result": "X"
+        },
+        {
+          "home": "Córdoba",
+          "away": "Tenerife",
+          "picks": "X2",
+          "result": "1"
+        },
+        {
+          "home": "Barcelona (F)",
+          "away": "Real Madrid (F)",
+          "picks": "2",
+          "result": "1"
+        },
+        {
+          "home": "Deportivo (F)",
+          "away": "At. Madrid (F)",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Madrid CFF (F)",
+          "away": "Athletic Club (F)",
+          "picks": "1X",
+          "result": "X"
+        },
+        {
+          "home": "Tenerife (F)",
+          "away": "Logroño (F)",
+          "picks": "2",
+          "result": "1"
+        }
+      ],
+      "pleno": {
+        "home": "España",
+        "away": "República Checa",
+        "prediction": "M-0",
+        "result": "M-1"
       }
     }
   ],
