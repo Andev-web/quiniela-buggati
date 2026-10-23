@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 0,
+  "nextPlayer": 1,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -1222,6 +1222,138 @@
           "amount": 0
         }
       ]
+    },
+    {
+      "id": "Jornada 14",
+      "dateStart": "2026-10-17",
+      "date": "2026-10-18",
+      "player": "Miguel",
+      "cost": 24,
+      "prize": null,
+      "scrutiny": [
+        {
+          "hits": 15,
+          "winners": 18,
+          "amount": 80778.13
+        },
+        {
+          "hits": 14,
+          "winners": 50,
+          "amount": 11162.13
+        },
+        {
+          "hits": 13,
+          "winners": 1583,
+          "amount": 165.26
+        },
+        {
+          "hits": 12,
+          "winners": 20502,
+          "amount": 12.76
+        },
+        {
+          "hits": 11,
+          "winners": 117869,
+          "amount": 2.22
+        },
+        {
+          "hits": 10,
+          "winners": 371994,
+          "amount": 0
+        }
+      ],
+      "matches": [
+        {
+          "home": "Espanyol",
+          "away": "At. Madrid",
+          "picks": "X2",
+          "result": "2"
+        },
+        {
+          "home": "Villarreal",
+          "away": "Elche",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Betis",
+          "away": "Barcelona",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Valencia",
+          "away": "Athletic Club",
+          "picks": "X",
+          "result": "X"
+        },
+        {
+          "home": "Celta",
+          "away": "Alavés",
+          "picks": "12",
+          "result": "1"
+        },
+        {
+          "home": "Málaga",
+          "away": "Real Sociedad",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Sevilla",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Eibar",
+          "away": "Mallorca",
+          "picks": "1",
+          "result": "X"
+        },
+        {
+          "home": "Las Palmas",
+          "away": "Castellón",
+          "picks": "X2",
+          "result": "2"
+        },
+        {
+          "home": "Burgos",
+          "away": "Sabadell",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Athletic Club (F)",
+          "away": "Valencia (F)",
+          "picks": "12",
+          "result": "1"
+        },
+        {
+          "home": "Real Madrid (F)",
+          "away": "Espanyol (F)",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Eibar (F)",
+          "away": "Deportivo (F)",
+          "picks": "12",
+          "result": "2"
+        },
+        {
+          "home": "At. Madrid (F)",
+          "away": "Madrid CFF (F)",
+          "picks": "1",
+          "result": "1"
+        }
+      ],
+      "pleno": {
+        "home": "Getafe",
+        "away": "Rayo Vallecano",
+        "prediction": "1-2",
+        "result": "1-1"
+      }
     }
   ],
   "withdrawals": []
