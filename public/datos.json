@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 1,
+  "nextPlayer": 2,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -1353,6 +1353,106 @@
         "away": "Rayo Vallecano",
         "prediction": "1-2",
         "result": "1-1"
+      }
+    },
+    {
+      "id": "Jornada 16",
+      "dateStart": "2026-10-24",
+      "date": "2026-10-25",
+      "player": "Antonio",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Rayo Vallecano",
+          "away": "Elche",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "Valencia",
+          "away": "Villarreal",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "At. Madrid",
+          "away": "Deportivo",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Athletic Club",
+          "away": "Getafe",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Celta",
+          "away": "Betis",
+          "picks": "X2",
+          "result": null
+        },
+        {
+          "home": "Real Sociedad",
+          "away": "Levante",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Sevilla",
+          "away": "Osasuna",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Leganés",
+          "away": "Mallorca",
+          "picks": "X",
+          "result": null
+        },
+        {
+          "home": "Almería",
+          "away": "R. Oviedo",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Sabadell",
+          "away": "Tenerife",
+          "picks": "1",
+          "result": null
+        },
+        {
+          "home": "Logroño (F)",
+          "away": "Badalona W. (F)",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Deportivo (F)",
+          "away": "Alavés (F)",
+          "picks": "1X",
+          "result": null
+        },
+        {
+          "home": "Eibar (F)",
+          "away": "Madrid CFF (F)",
+          "picks": "12",
+          "result": null
+        },
+        {
+          "home": "Real Madrid (F)",
+          "away": "Tenerife (F)",
+          "picks": "1",
+          "result": null
+        }
+      ],
+      "pleno": {
+        "home": "Barcelona",
+        "away": "Real Madrid",
+        "prediction": "1-1",
+        "result": null
       }
     }
   ],
