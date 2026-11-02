@@ -1367,93 +1367,125 @@
           "home": "Rayo Vallecano",
           "away": "Elche",
           "picks": "X",
-          "result": null
+          "result": "2"
         },
         {
           "home": "Valencia",
           "away": "Villarreal",
           "picks": "X",
-          "result": null
+          "result": "2"
         },
         {
           "home": "At. Madrid",
           "away": "Deportivo",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Athletic Club",
           "away": "Getafe",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Celta",
           "away": "Betis",
           "picks": "X2",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Real Sociedad",
           "away": "Levante",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Sevilla",
           "away": "Osasuna",
           "picks": "1",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Leganés",
           "away": "Mallorca",
           "picks": "X",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Almería",
           "away": "R. Oviedo",
           "picks": "1X",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Sabadell",
           "away": "Tenerife",
           "picks": "1",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Logroño (F)",
           "away": "Badalona W. (F)",
           "picks": "1X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Deportivo (F)",
           "away": "Alavés (F)",
           "picks": "1X",
-          "result": null
+          "result": "1"
         },
         {
           "home": "Eibar (F)",
           "away": "Madrid CFF (F)",
           "picks": "12",
-          "result": null
+          "result": "X"
         },
         {
           "home": "Real Madrid (F)",
           "away": "Tenerife (F)",
           "picks": "1",
-          "result": null
+          "result": "1"
         }
       ],
       "pleno": {
         "home": "Barcelona",
         "away": "Real Madrid",
         "prediction": "1-1",
-        "result": null
-      }
+        "result": "1-2"
+      },
+      "scrutiny": [
+        {
+          "hits": 15,
+          "winners": 0,
+          "amount": 0
+        },
+        {
+          "hits": 14,
+          "winners": 15,
+          "amount": 36053.45
+        },
+        {
+          "hits": 13,
+          "winners": 557,
+          "amount": 455.12
+        },
+        {
+          "hits": 12,
+          "winners": 6862,
+          "amount": 36.94
+        },
+        {
+          "hits": 11,
+          "winners": 45227,
+          "amount": 5.61
+        },
+        {
+          "hits": 10,
+          "winners": 186259,
+          "amount": 1.63
+        }
+      ]
     }
   ],
   "withdrawals": []
