@@ -1,6 +1,6 @@
 {
   "openingBalance": 0,
-  "nextPlayer": 2,
+  "nextPlayer": 3,
   "rounds": [
     {
       "id": "Jornada 1",
@@ -1486,6 +1486,106 @@
           "amount": 1.63
         }
       ]
+    },
+    {
+      "id": "Jornada 18",
+      "dateStart": "2026-10-31",
+      "date": "2026-11-01",
+      "player": "Jaime",
+      "cost": 24,
+      "prize": null,
+      "matches": [
+        {
+          "home": "Levante",
+          "away": "At. Madrid",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Rayo Vallecano",
+          "away": "Celta",
+          "picks": "12",
+          "result": "1"
+        },
+        {
+          "home": "Betis",
+          "away": "Málaga",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Barcelona",
+          "away": "Alavés",
+          "picks": "1",
+          "result": "1"
+        },
+        {
+          "home": "Getafe",
+          "away": "Sevilla",
+          "picks": "2",
+          "result": "1"
+        },
+        {
+          "home": "Racing Santander",
+          "away": "Real Madrid",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Elche",
+          "away": "Valencia",
+          "picks": "1",
+          "result": "2"
+        },
+        {
+          "home": "Eibar",
+          "away": "Almería",
+          "picks": "X2",
+          "result": "X"
+        },
+        {
+          "home": "Eldense",
+          "away": "Granada",
+          "picks": "X2",
+          "result": "2"
+        },
+        {
+          "home": "Burgos",
+          "away": "Castellón",
+          "picks": "12",
+          "result": "X"
+        },
+        {
+          "home": "Alavés (F)",
+          "away": "Real Sociedad (F)",
+          "picks": "2",
+          "result": "X"
+        },
+        {
+          "home": "Madrid CFF (F)",
+          "away": "Deportivo (F)",
+          "picks": "X2",
+          "result": "1"
+        },
+        {
+          "home": "Sevilla (F)",
+          "away": "Real Madrid (F)",
+          "picks": "2",
+          "result": "2"
+        },
+        {
+          "home": "Tenerife (F)",
+          "away": "Athletic Club (F)",
+          "picks": "2",
+          "result": null
+        }
+      ],
+      "pleno": {
+        "home": "Athletic Club",
+        "away": "Real Sociedad",
+        "prediction": "2-0",
+        "result": "2-1"
+      }
     }
   ],
   "withdrawals": []
