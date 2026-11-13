@@ -1493,7 +1493,7 @@
       "date": "2026-11-01",
       "player": "Jaime",
       "cost": 24,
-      "prize": null,
+      "prize": 0,
       "matches": [
         {
           "home": "Levante",
@@ -1577,7 +1577,7 @@
           "home": "Tenerife (F)",
           "away": "Athletic Club (F)",
           "picks": "2",
-          "result": null
+          "result": "1"
         }
       ],
       "pleno": {
@@ -1585,7 +1585,39 @@
         "away": "Real Sociedad",
         "prediction": "2-0",
         "result": "2-1"
-      }
+      },
+      "scrutiny": [
+        {
+          "hits": 15,
+          "winners": 26,
+          "amount": 83350.51
+        },
+        {
+          "hits": 14,
+          "winners": 96,
+          "amount": 5979.25
+        },
+        {
+          "hits": 13,
+          "winners": 1867,
+          "amount": 144.12
+        },
+        {
+          "hits": 12,
+          "winners": 16798,
+          "amount": 16.02
+        },
+        {
+          "hits": 11,
+          "winners": 91671,
+          "amount": 2.94
+        },
+        {
+          "hits": 10,
+          "winners": 321020,
+          "amount": 0
+        }
+      ]
     }
   ],
   "withdrawals": []
